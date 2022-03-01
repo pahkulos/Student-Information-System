@@ -1,0 +1,6 @@
+210110;a@gtu.edu.tr;000000;Ahmet;Turan
+210120;s@gtu.edu.tr;000000;Semih;Tur
+210130;e@gtu.edu.tr;000000;Elon;Musk
+210140;b@gtu.edu.tr;000000;Bill;Gates
+210150;m@gtu.edu.tr;000000;Mark;Zuckerberg
+210160;ali@gtu.edu.tr;000000;Ali;Tura
